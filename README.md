@@ -15,3 +15,4 @@ NetworkX provides:
 With NetworkX you can load and store networks in standard and nonstandard data formats, generate many types of random and classic networks, analyze network structure, build network models, design new network algorithms, draw networks, and much more.
 
 ## Implementation
+I have implemented a basic networkX graph with nodes and edges to fetch US states that share a border. These states are also ranked as per their population. So the network is of states that share borders in decreasing order of their population. 
